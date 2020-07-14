@@ -1,0 +1,20 @@
+.titulo-conta {
+    margin: 10px;
+  }
+  .titulo-tabela-soma {
+    max-width: 750px;
+    background-color: white;
+    text-align: center;
+    margin: 5% auto 2.5%;
+    border: 2px solid black;
+  }
+
+#nome{
+    margin-top: 10px;
+    width: 400px;
+    height: 2em;
+}
+
+.center{
+    margin-top: 0px;
+}
